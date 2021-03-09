@@ -1,0 +1,19 @@
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\pogchamp 3d.exe
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\obj\Debug\netcoreapp3.1\pogchamp 3d.csprojAssemblyReference.cache
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\obj\Debug\netcoreapp3.1\pogchamp 3d.AssemblyInfoInputs.cache
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\obj\Debug\netcoreapp3.1\pogchamp 3d.AssemblyInfo.cs
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\pogchamp 3d.deps.json
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\pogchamp 3d.runtimeconfig.json
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\pogchamp 3d.runtimeconfig.dev.json
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\pogchamp 3d.dll
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\pogchamp 3d.pdb
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\Raylib-cs.dll
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libraylib.so
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libraylib.so
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\raylib.dll
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\raylib.dll
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\obj\Debug\netcoreapp3.1\pogchamp 3d.csproj.CopyComplete
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\obj\Debug\netcoreapp3.1\pogchamp 3d.dll
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\obj\Debug\netcoreapp3.1\pogchamp 3d.pdb
+C:\Users\s210193\source\repos\pogcghamp\pogchamp 3d\bin\Debug\netcoreapp3.1\textures\xhair.png
